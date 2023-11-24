@@ -1,0 +1,41 @@
+NO ./textures/wefuk/tf_this2.xpm
+SO ./textures/wefuk/tf_this3.xpm
+WE ./textures/wefuk/tf_this0.xpm
+EA ./textures/wefuk/tf_this1.xpm
+
+F 75,108,87
+C 173,216,230
+
+        1111111111111111111111111
+111111111011000000100000111
+101100000111000000000000111
+101100000000000000000100111
+111111111011000001110000111
+100000000011000001110111111
+111101111111110111000000001
+111101111111110111010000001
+110000001101010111000001001
+100000000000000111000001001
+100000000000000000000101001
+1100000111010001111101110E1
+111101111110101101111010001
+111111111111111111111111111
+
+mv emaravil-fotor-bg-remover-20231104214639.png emaravil.png ;
+mv emaravil-fotor-bg-remover-20231104214659.png emaravil0.png ;
+mv ialkhali-fotor-bg-remover-20231104212055.png ialkhali.png ;
+mv myousaf copy-fotor-bg-remover-20231104151235.png myousaf0.png ;
+mv myousaf copy-fotor-bg-remover-20231104151315.png myousaf1.png ;
+mv myousaf copy-fotor-bg-remover-20231104151320.png myousaf2.png ;
+mv myousaf copy-fotor-bg-remover-2023110415137.png myousaf3.png ;
+mv myousaf copy-fotor-bg-remover-20231104151429.png myousaf4.png ;
+mv myousaf copy-fotor-bg-remover-20231104151442.png myousaf5.png ;
+mv myousaf-fotor-bg-remover-2023110415170.png myousaf.png ;
+mv photo1699075241-fotor-bg-remover-20231104152053.png taha0.png ;
+mv photo1699075241-fotor-bg-remover-20231104152110.png taha1.png ;
+mv photo1699075241-fotor-bg-remover-20231104152122.png taha2.png ;
+mv photo1699098602-fotor-bg-remover-20231104213556.png taha3.png ;
+mv photo1699098602-fotor-bg-remover-20231104213714.png taha4.png ;
+mv photo1699098602-fotor-bg-remover-20231104213839.png taha5.png ;
+mv sun-nabi copy-fotor-bg-remover-20231104214223.png sun0.png ;
+mv sun-nabi.jpeg sun1.jpeg
